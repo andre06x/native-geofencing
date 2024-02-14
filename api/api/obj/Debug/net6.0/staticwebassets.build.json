@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "21JAAwqptimfl4oOwQ8dE+aLH00HAuHq6odanfyW4mM=",
+  "Source": "geofencing.api",
+  "BasePath": "_content/geofencing.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
