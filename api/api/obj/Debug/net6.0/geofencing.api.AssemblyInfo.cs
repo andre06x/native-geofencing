@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("geofencing.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d5b58e3e44b2123f53de510010d1b718401494e")]
 [assembly: System.Reflection.AssemblyProductAttribute("geofencing.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("geofencing.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
