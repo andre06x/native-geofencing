@@ -1,7 +1,6 @@
 using Microsoft.AspNetCore.Mvc.ApiExplorer;
 using Microsoft.EntityFrameworkCore;
 using GEO.API;
-using GEO.TESTE;
 using api.Configuracao;
 
 
