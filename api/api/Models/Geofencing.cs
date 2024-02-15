@@ -3,6 +3,7 @@
 namespace api.Models
 {
 
+    [Table("Geofencing")]
     public class Geofencing
     {
         [Column("id")]
